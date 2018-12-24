@@ -1,7 +1,7 @@
 # nofomo
 NO More Fear Of Missing Out
 
-This contract takes advantage of a number of smartcontracts modeled from the Jekyll Island FoMo3D Exit Scam game.  These contracts are not supposed to be playable by non-humans.  The Here is the current code.
+This contract takes advantage of a number of smartcontracts flaws uncovered from the Jekyll Island FoMo3D Exit Scam game.  These contracts are not supposed to be playable by non-humans.  The Here is the current code.
 
 https://etherscan.io/address/0xa62142888aba8370742be823c1782d17a0389da1#code
 
